@@ -13,12 +13,16 @@ title: PSI_Changelog
 
 ### Topics
 
+#### Language
+
+- 20231104 `@127PCL` FF - Search WW online `https://www.wordwebonline.com/search.pl?w=handman` but wikipedia uses the word Handyman:  [Handyman - Wikipedia](https://en.wikipedia.org/wiki/Handyman)
+
 #### Linux
 
-- 20231104 `@127PCL` It seems that there exist no simple ways to capture urls or create app shortcuts in linux. You can drag a `.desktop` file or create a link using the `ln` command, but urls cannot be dragged from browser tags the way we do it in windows). Markdown comes to rescue, though. In some ways it is even better as one can attach comments, include math, embed a picture to websites or folder paths. 
-- Typing Automation/Text Expansion in Linux: Seems that espanso is the only serious option as I could not put run lintalist in linux(but it works in linux). But there _is_ a project called lintalist4linux which I have checked a few times: everytime something goes wrong. 
-- [GitHub - eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress) 
-
+- 20231104 `@127PCL` FF It seems that there exist no simple ways to capture urls or create app shortcuts in linux. You can drag a `.desktop` file or create a link using the `ln` command, but urls cannot be dragged from browser tags the way we do it in windows). Markdown comes to rescue, though. In some ways it is even better as one can attach comments, include math, embed a picture to websites or folder paths. 
+- Typing Automation/Text Expansion in Linux: Seems that espanso is the only serious option as I could not put run lintalist in linux(but it works in MS). But there _is_ a project called lintalist4linux which I have checked a few times: everytime something goes wrong. 
+    - See Also [GitHub - eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress); it dips in your files to gather common usage and suggest abbreviations.  
+- zip command to zip a folder :  `zip -r <zip file name> <directory name>`
 
 
 ### Nov 5, 2023 : 11:59 
@@ -27,7 +31,7 @@ New Github ID `md-127` with paw `127PCL` opened from 127PCL G. New Repo created 
 
 My purpose here,  is to have the the ability to save / recall this file from the github cloud from any device which runs the chrome browser so that I can retrace my steps from just about anywhere. 
 
-**Be Warned** this repo is a public one and is theoretically _discoverable by just about anyone_. I tried to create a private repo too, but this app cannnot access anything from there. 
+**Be Warned** this repo is a public one and is theoretically _discoverable by just about anyone_. I tried to create a private repo too, but this app cannnot access anything from there. Maybe use `protectedtext.com` for such information (using matching handles) 
 
 ![](https://i.imgur.com/ulYREJF.png)
 
