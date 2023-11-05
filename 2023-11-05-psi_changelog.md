@@ -9,6 +9,12 @@ title: PSI_Changelog
 
 # PSI-127 Changelog 
 
+This file is maintained online through the chrome extension Multitabs Markdown editor. The actual file is stored in a github repo (See the Journal entry on Nov 5, 2023 for this). 
+
+**Last Edited**: Nov 5, 2023, 1352
+**Local Storage**: Recent Folder
+
+## Physics Research
 
 
 ## Physics Teaching
@@ -17,7 +23,7 @@ title: PSI_Changelog
     - https://expeyes.in/
     - [Installing via PIP](https://csparkresearch.in/installers/install-via-pip.html) , [CSPARK](https://csparkresearch.in/seelab3) 
 
-## Topics
+## Other Topics
 
 ### Language
 
@@ -28,9 +34,6 @@ title: PSI_Changelog
 - [1971 in science - Wikipedia](https://en.wikipedia.org/wiki/1971_in_science) - [My Miro mmap](https://miro.com/app/board/uXjVM0VMK3k=/)
 
 -  [Plato - History of QFT](https://plato.stanford.edu/entries/quantum-field-theory/qft-history.html) 
-
-
-### Diagramming Online
 
 
 #### Linux
@@ -63,4 +66,9 @@ My purpose here,  is to have the the ability to save / recall this file from the
 ![](https://i.imgur.com/ulYREJF.png)
 
 This editor only works in Chrome (I think it is one of the editors which make editing markdown files easier for githab, _but you still have to know the basic codes_  expect nothing fancy here.)
-    -  **Check** whether edits can be continued from another Chrome profile.  Yes it does. Tested it from my sxccal profile. Install this extension, Import from Github login as `md-127` to Github and everything seems to work out (but the file needs to be imported again if the chrome profile is switched, sync is not automatic, not does it happen with browser refresh)
+
+- [x] **Check** whether edits can be continued from another Chrome profile.  Yes it does. Tested it from my sxccal profile. Install this extension, Import from Github login as `md-127` to Github and everything seems to work out (but the file needs to be imported again if the chrome profile is switched, sync is neither automatic, nor does it happen with browser refresh)
+
+## Alik
+
+## OPUS
