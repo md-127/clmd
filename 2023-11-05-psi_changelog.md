@@ -9,5 +9,5 @@ title: PSI_Changelog
 
 # PSI Changelog 
 
-- Nov 5, 2023 : 11:59 - New GH ID md-127 with paw 127PCL. New Repo created : clmd (short for change log in markdown format). This file is saved there as `2023-11-05-psi_changelog.md`. Each time something changes, the save to button needs to be clicked and the repo selected in the github file save dialog. Tedious (<kbd> Ctrl + S</kbd> works)
+- Nov 5, 2023 : 11:59 - New Github ID `md-127` with paw `127PCL` opened. New Repo created : clmd (short for change log in markdown format). This file is saved there as `2023-11-05-psi_changelog.md`. Each time something changes here in the **MultiTabs Markdown Editor** (Chrome Extension), the `save to` button needs to be clicked, the repo selected in the github file save dialog and the consequent github query replied to. Tedious Process (However the shortcut <kbd> Ctrl + S</kbd> works). 
     - [ ] Check whether edits can be continued from another profile.
