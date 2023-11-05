@@ -9,4 +9,5 @@ title: PSI_Changelog
 
 # PSI Changelog 
 
-This is a markdown file backed up to one of my github accounts. 
+- Nov 5, 2023 : 11:59 - New GH ID md-127 with paw 127PCL. New Repo created : clmd (short for change log in markdown format). This file is saved there as `2023-11-05-psi_changelog.md`. 
+    - [ ] Check whether edits can be continued from another profile.
