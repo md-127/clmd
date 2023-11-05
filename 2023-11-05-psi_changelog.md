@@ -14,4 +14,4 @@ title: PSI_Changelog
 ![](https://i.imgur.com/ulYREJF.png)
 
 This editor only works in Chrome (I think it is one of the editors which make editing markdown files easier for githab, _but you still have to know the basic codes_  expect nothing fancy here.) For me, it is the ability to save / recall this file from a web space is all what matters. Note that this repo is a public one and is theoretically discoverable by just about anyone.  
-    - [ ] Check whether edits can be continued from another Chrome profile.
+    -  **Check** whether edits can be continued from another Chrome profile.  Yes it does. Tested it from my sxccal profile. Install this extension, Import from Github login as `md-127` to Github and everything seems to work out. 
