@@ -17,6 +17,14 @@ title: PSI_Changelog
 
 - 20231104 `@127PCL` FF - Search WW online `https://www.wordwebonline.com/search.pl?w=handman` but wikipedia uses the word Handyman:  [Handyman - Wikipedia](https://en.wikipedia.org/wiki/Handyman)
 
+#### Additional Readings
+
+- [Plato - History of QFT](https://plato.stanford.edu/entries/quantum-field-theory/qft-history.html) 
+
+#### Diagramming Online
+
+- https://www.drawio.com/
+
 #### Linux
 
 - 20231104 `@127PCL` FF It seems that there exist no simple ways to capture urls or create app shortcuts in linux. You can drag a `.desktop` file or create a link using the `ln` command, but urls cannot be dragged from browser tags the way we do it in windows). Markdown comes to rescue, though. In some ways it is even better as one can attach comments, include math, embed a picture to websites or folder paths. 
