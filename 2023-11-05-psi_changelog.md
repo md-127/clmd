@@ -9,21 +9,29 @@ title: PSI_Changelog
 
 # PSI-127 Changelog 
 
-## Journal Entries
 
-### Topics
 
-#### Language
+## Physics Teaching
+
+- Sensor Lab
+    - https://expeyes.in/
+    - [Installing via PIP](https://csparkresearch.in/installers/install-via-pip.html) , [CSPARK](https://csparkresearch.in/seelab3) 
+
+## Topics
+
+### Language
 
 - 20231104 `@127PCL` FF - Search WW online `https://www.wordwebonline.com/search.pl?w=handman` but wikipedia uses the word Handyman:  [Handyman - Wikipedia](https://en.wikipedia.org/wiki/Handyman)
 
-#### Additional Readings
+### Science
 
-- [Plato - History of QFT](https://plato.stanford.edu/entries/quantum-field-theory/qft-history.html) 
+- [1971 in science - Wikipedia](https://en.wikipedia.org/wiki/1971_in_science) - [My Miro mmap](https://miro.com/app/board/uXjVM0VMK3k=/)
 
-#### Diagramming Online
+-  [Plato - History of QFT](https://plato.stanford.edu/entries/quantum-field-theory/qft-history.html) 
 
-- https://www.drawio.com/
+
+### Diagramming Online
+
 
 #### Linux
 
@@ -32,6 +40,17 @@ title: PSI_Changelog
     - See Also [GitHub - eschluntz/compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress); it dips in your files to gather common usage and suggest abbreviations.  
 - zip command to zip a folder :  `zip -r <zip file name> <directory name>`
 
+#### InfoTech
+
+-  Diagramming online
+    - https://www.drawio.com/
+    - matcha
+- Outliners
+    - [What People are Saying about Leo &#8212; Leo 6.7.4 documentation](https://leo-editor.github.io/leo-editor/testimonials.html)
+
+- Visual Coding https://app.edublocks.org/ : Py, RPi ..,
+
+## Journal Entries
 
 ### Nov 5, 2023 : 11:59 
 
